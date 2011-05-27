@@ -129,6 +129,11 @@ class Devkit_code_completion
     public $abmembers;
 
     /**
+     * @var Abuserprefs
+     */
+    public $abuserprefs;
+
+    /**
      * @var Srlib
      */
     public $srlib;
